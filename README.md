@@ -38,7 +38,7 @@ The stockout flag contained only zero values, so stockout performance could not 
 ![Dashboard](Dashboard.png)
 
 ## Business Insights
-![Business Insights](Business Insights.png)
+![Business Insights](Business%20Insights.png)
 
 ## Conclusion
 This project demonstrates data cleaning, SQL analysis, and Power BI dashboard development for inventory risk management.
