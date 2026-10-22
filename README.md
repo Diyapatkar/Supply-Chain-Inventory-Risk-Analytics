@@ -28,17 +28,16 @@ The stockout flag contained only zero values, so stockout performance could not 
 - `SQL/` — SQL queries
 - `PowerBI/` — Power BI dashboard
 - `Screenshots/` — Dashboard image
-- `Reports/` — Analysis reports
 
   ## Dataset
 - Raw Dataset: `Dataset/Raw/`
 - Cleaned Dataset: `Dataset/Cleaned/`
 
 ## Power BI Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Business Insights
-![Business Insights](Business%20Insights.png)
+![Business Insights](Screenshots/Business%20Insights.png)
 
 ## Conclusion
 This project demonstrates data cleaning, SQL analysis, and Power BI dashboard development for inventory risk management.
